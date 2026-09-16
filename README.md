@@ -42,7 +42,14 @@ dishes are weighted by `(days since cooked + 1)²`, a never-cooked dish counts a
 changes in the app, `picker.js` here should be updated to match.
 
 The dish list is hard-coded sample data. Nothing is stored or sent anywhere —
-no analytics, no cookies, no network requests.
+no analytics, no cookies, no network requests from that page.
+
+## Visit counts
+
+The home page loads [GoatCounter](https://www.goatcounter.com) (`mohammedashfaq.goatcounter.com`).
+It is cookieless and is not loaded on `/whatdoicooktoday/` or the privacy page,
+so the App Store privacy wording stays true. Dashboard:
+<https://mohammedashfaq.goatcounter.com>.
 
 ## Before restructuring this site
 
