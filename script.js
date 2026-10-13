@@ -141,6 +141,7 @@
       "monitor your application",
       "are scalable",
       "are performant",
+      "are secure",
       "page me before users notice",
     ];
 
